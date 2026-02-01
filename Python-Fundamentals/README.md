@@ -1,12 +1,10 @@
-# Day 01 — Variables & Data Types
+# Python Fundamentals
 
-## Concepts Covered
-- Variables
-- User Input
-- Data Types (int, float, string)
-- Type Conversion
+This folder contains my foundational Python practice.
+
+## Topics Covered
+- Variables and Data Types
+- User Input and Type Conversion
 - Basic Math Operations
 
-## Practice Programs
-1. User Introduction Program  
-2. Math Operations Program
+Each subfolder represents daily learning progress.
