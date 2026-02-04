@@ -1,0 +1,67 @@
+# Print numbers from 1 to 5
+
+i=1
+while i<=5:
+  print(i)
+  i+=1
+
+# Print numbers from 5 to 1
+
+i=5
+while i>=1:
+  print(i)
+  i-=1
+
+# print the multiplication table of a number n
+
+num=int(input("Enter a number :"))
+i=1
+while i<=10:
+  print(num*i)
+  i+=1
+
+
+# Print the elements of the following list using loop
+
+num=[1,4,9,8,52.64,58,3]
+i=0
+while i<len(num):
+  print(num[i])
+  i+=1
+
+
+# Search for a number x in this tuple using loop
+
+num=(1,4,9,8,52.64,58,3)
+x=3
+i=0
+while i<len(num):
+  if (num[i]==x):
+    print("found ",i)
+  i+=1
+
+# using break function
+
+num=(1,4,9,8,52.64,58,3)
+x=9
+i=0
+while i<len(num):
+  if (num[i]==x):
+    print("found ",i)
+    break
+  else:
+    print("Finding...")
+  i+=1
+
+
+# using continue statement
+
+i=0
+while i<=5:
+  if i==3:
+    i+=1
+    continue
+  print(i)
+  i+=1
+
+
