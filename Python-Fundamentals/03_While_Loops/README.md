@@ -3,7 +3,7 @@
 This folder contains practice programs based on the while loop in Python.
 
 Topics covered:
-- Basic while loop
+- Basic while loops
 - Reverse counting
 - Multiplication table using while
 - Looping through lists
